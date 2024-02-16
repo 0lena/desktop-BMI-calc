@@ -1,9 +1,7 @@
-#Olena
 import tkinter
 from tkinter import messagebox
 import csv
 from matplotlib import pyplot as plt
-import matplotlib.image as img
 from PIL import Image, ImageTk
 
 Yellow = "#feb132"
